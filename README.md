@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @Igor
+# Привет, меня зовут Игорь!
+
+---
+
 - 👀 I’m interested in QAP
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on PET
 - 📫 How to reach me:   [![Telegram Badge](https://img.shields.io/badge/-IgorRum-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rum2006) 
 
+---
 
-##### Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -18,10 +22,9 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+----
 
-
-##### MOTTO
+### MOTTO
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
-####
