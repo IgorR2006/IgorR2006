@@ -2,7 +2,7 @@
 - 👀 I’m interested in QAP
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on PET
-- 📫 How to reach me: - [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rum2006) 
+- 📫 How to reach me: - [![Telegram Badge](https://img.shields.io/badge/-IgorRum-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rum2006) 
 
 
 
