@@ -1,10 +1,7 @@
 # Привет, меня зовут Игорь!
 
 ---
-
-- 👀 I’m interested in QAP
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on PET
+I like QA because of its opportunity to participate in the entire process of creating software “inside out” + and communicating with a large number of people at once. I am a beginner software tester, my goal is to gain commercial experience and further development in testing.
 - 📫 How to reach me:   [![Telegram Badge](https://img.shields.io/badge/-IgorRum-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rum2006)  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:rumgor@yandex.ru)
 
 ---
