@@ -1,4 +1,4 @@
-# Привет, меня зовут Игорь!
+# Hi, my name is Igor!
 
 ---
 I like QA because of its opportunity to participate in the entire process of creating software “inside out” + and communicating with a large number of people at once. I am a beginner software tester, my goal is to gain commercial experience and further development in testing.
